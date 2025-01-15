@@ -1,4 +1,5 @@
-## Hi there 👋
+Web Developer
+JavaScript, NodeJS, jQuery, Vue, React, HTML5, CSS3
 
 <!--
 **giova-vn/giova-vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

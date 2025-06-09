@@ -1,5 +1,5 @@
 Web Developer
-<br>JavaScript, NodeJS, jQuery, HTML5, CSS3
+<br>JavaScript, NodeJS, Express.js, jQuery, mySQL, Docker , HTML5, CSS3
 
 <!--
 **giova-vn/giova-vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

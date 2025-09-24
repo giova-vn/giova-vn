@@ -1,5 +1,5 @@
-Web Developer
-<br>JavaScript, NodeJS, Express.js, jQuery, mySQL, Docker , HTML5, CSS3
+Full Stack Web Developer
+<br>Python, Flask, JavaScript, NodeJS, Express.js, React, jQuery, mySQL, MongoDB, Docker, AWS Elastic Beanstalk, HTML5, CSS3
 
 <!--
 **giova-vn/giova-vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
